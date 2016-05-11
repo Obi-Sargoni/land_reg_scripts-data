@@ -1,0 +1,35 @@
+DEBUG:root:TITLE: User input matches
+DEBUG:root:
+
+DEBUG:root:Total number of names:
+DEBUG:root:532247
+DEBUG:root:Number of matched names within df after replacement: 
+DEBUG:root:1998
+DEBUG:root:Number of matched organisations, determined by number of unique registered providers:
+DEBUG:root:1331
+DEBUG:root:Number of entries flagged as incorrect matches:
+DEBUG:root:7
+DEBUG:root:Types of matches mades
+DEBUG:root:direct_match      1233
+fuzzy_match_95     728
+fuzzy_match_96      19
+user_input          15
+fuzzy_match_90       3
+Name: How_Matched, dtype: int64
+DEBUG:root:
+
+DEBUG:root:Calculate proportion of LR entries matched
+DEBUG:root:Total number of entries:
+DEBUG:root:13602099.0
+DEBUG:root:Number og matched entries:
+DEBUG:root:5031762.0
+DEBUG:root:Percentage:
+DEBUG:root:0.369925406366
+DEBUG:root:
+
+DEBUG:root:Number of registered providers located:
+DEBUG:root:1331
+DEBUG:root:Out of a total of: 
+DEBUG:root:1838
+DEBUG:root:
+
